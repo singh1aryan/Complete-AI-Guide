@@ -1,7 +1,6 @@
 # Complete AI Guide
 
-# Prompt engineering guide
-
+Welcome to your AI Guide – your ultimate companion to exploring the fascinating world of artificial intelligence. This guide is designed to empower you with practical knowledge and hands-on skills in key areas such as crafting effective prompts, mastering prompt engineering, building innovative AI projects, and discovering powerful AI tools. Whether you're a beginner eager to dive into AI or a seasoned enthusiast looking to sharpen your expertise, this guide provides actionable insights and resources to unlock the true potential of AI in your creative and technical endeavors.
 
 ## Contents
 - [Understanding Prompt Engineering](#understanding-prompt-engineering)
@@ -48,6 +47,19 @@
   - [Prompt Management](#prompt-management)
 - [Testing Strategy](#testing-strategy)
 - [Deployment Guide](#deployment-guide)
+
+# Prompt engineering guide
+
+## Contents
+- [Understanding Prompt Engineering](#understanding-prompt-engineering)
+- [The Anatomy of an Effective Prompt](#the-anatomy-of-an-effective-prompt)
+- [Template: Creating Customized Learning Paths](#template-creating-customized-learning-paths)
+- [Real-World Example](#real-world-example)
+- [Advanced Prompt Engineering Techniques](#advanced-prompt-engineering-techniques)
+- [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
+- [Best Practices for Prompt Engineering](#best-practices-for-prompt-engineering)
+- [Conclusion](#conclusion)
+
 
 ## Understanding Prompt Engineering
 
